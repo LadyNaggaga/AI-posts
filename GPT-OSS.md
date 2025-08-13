@@ -92,7 +92,7 @@ Make sure your Ollama service is running in the background. Then, run your .NET 
 dotnet run
 ```
 
-![Running GPT-OSS Application](./images/running-app.png "GPT-OSS console application in action")
+![Running GPT-OSS Application](./Ollama-gpt-oss-2ob.gif "GPT-OSS console application in action")
 
 Your application will connect to the local Ollama server, and you can start chatting with your own private GPT-OSS model.
 
